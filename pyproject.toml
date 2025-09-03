@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ltchiptool"
-version = "4.12.1"
+version = "4.12.2dev1"
 description = "Universal flashing and binary manipulation tool for IoT chips"
 authors = ["Kuba Szczodrzyński <kuba@szczodrzynski.pl>"]
 license = "MIT"
